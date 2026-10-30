@@ -19,7 +19,7 @@ Juridicamente, é o **Parceiro Comercial**: **pessoa jurídica (CNPJ)** com **Co
 | Caminho | Requisitos | Observações |
 |---|---|---|
 | **Credenciamento direto com o BB** | CNPJ ativo, estrutura mínima, análise da BBTS/BB Consórcios | Processo mais rigoroso; histórico de exigir atuação comprovada |
-| **Credenciamento via plataforma agregadora (ex.: Conx Soluções, Rede Renove)** | CNPJ ativo há mais de 6 meses, atuação comprovável no mercado | Caminho mais viável para iniciantes; a plataforma já possui convênio com o BB |
+| **Credenciamento via rede de afiliação** | CNPJ ativo há mais de 6 meses, atuação comprovável no mercado | Caminho mais viável para iniciantes; redes já consolidadas possuem convênio com administradoras e oferecem estrutura operacional pronta. |
 
 > ⚠️ Verifique diretamente com o BB ou com a plataforma a vigência e as condições atuais.
 

@@ -29,9 +29,9 @@
 
 ## 🧠 Implicações para um Iniciante
 
-- **Mercado de representação do BB em BH não está saturado de parceiros locais**, mas disputado por redes nacionais e por um player local em estruturação (ISF).
-- A maioria dos parceiros com sede em MG está no Triângulo Mineiro (Uberlândia, Unaí).
-- **Rota mais viável:** credenciar-se via plataforma (Conx) e focar em nicho que ISF e Renove não atendem de forma consultiva.
+- **Mercado de representação em BH não está saturado de parceiros locais**, mas é fortemente disputado por redes nacionais e por players locais em fase de estruturação.
+- A maioria dos parceiros com sede em MG está no interior (Triângulo Mineiro e Noroeste), o que abre espaço para atuação consultiva na capital.
+- **Rota mais viável:** atuar como afiliado/representante de uma rede consolidada e focar em nichos verticais de forma consultiva, agregando valor no atendimento local.
 
 ---
 
