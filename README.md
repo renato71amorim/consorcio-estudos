@@ -60,7 +60,7 @@ Servir como **base de conhecimento estruturada** para quem está iniciando carre
 
 ## 🛠️ Como Contribuir
 
-Veja o arquivo [CONTRIBUTING.md](./CONTRIBUTING.md) para orientações sobre como adicionar novos conteúdos, corrigir dados e manter o repositório versionado.
+Veja o arquivo [CONTRIBUTING.md](./docs/CONTRIBUTING.md) para orientações sobre como adicionar novos conteúdos, corrigir dados e manter o repositório versionado.
 
 ---
 
