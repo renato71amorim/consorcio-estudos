@@ -1,0 +1,22 @@
+# Dados sensíveis
+.env
+*.secret
+credenciais/
+contratos/*.pdf
+!contratos/README.md
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.sh
+
+# Editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Temporários
+*.tmp
+*.bak
+~$*
